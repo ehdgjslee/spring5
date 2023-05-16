@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="sp5-chap02-springStart_main" target="11" />
+      <module name="sp5-chap02-springStart_test" target="11" />
+      <module name="sp5-chap03-springDI_main" target="11" />
+      <module name="sp5-chap03-springDI_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
